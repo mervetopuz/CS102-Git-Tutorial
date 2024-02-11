@@ -32,8 +32,6 @@ public class Cipher
         }
         
         return outputString;
-        
-        return outputString;
     }
 
     // replaces the given input char based on the given isEncrypt variable
